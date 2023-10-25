@@ -1,0 +1,10 @@
+
+// Método para saber si un número es par o impar. Debe ser incluida dentro de una clase para funcionar.
+
+	public String esParOImpar(int numero) {
+		
+		//El número será par si el resto al dividir por 2 es 0. En caso contrario, será impar.
+		
+		if(numero % 2 == 0) return "El número es par";
+		else return "El número es impar";
+	}
