@@ -2,7 +2,7 @@
 
 ## Primer repositorio de la asignatura Entornos de Desarrollo
 
-![imagenDrive](C:\Users\Jose\Desktop\Trabajos de clase\Entornos de Desarrollo\Repositorios\biblioteca_Jose_Martin_Bellido)
+![imagenInternet](https://miro.medium.com/v2/resize:fit:828/format:webp/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 
 Creación de **README.md** para comprobar como funciona la sintaxis de este lenguaje concreto (**markdown**). 
 
